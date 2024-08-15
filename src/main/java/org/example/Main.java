@@ -44,7 +44,9 @@ public class Main {
         System.out.println(max);
         System.out.println(min);
 
-
+      int e = 8;
+      int f=72;
+      e=f;
 
     }
 }
